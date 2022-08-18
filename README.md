@@ -1,4 +1,4 @@
-# Top-music-web
+# Top-music-backend
 
 Social network for music - personal project
 
